@@ -4,6 +4,7 @@
  <br>
  <h1 align="center">
   <img src="https://github.com/Guilherme-Lima-Web/ecotech-projeto/blob/master/img/desktops.png?raw=true" width="550px">
+  <img src="https://github.com/Guilherme-Lima-Web/ecotech-projeto/blob/master/img/mobile%20(2).png?raw=true" width="100px">
  </h1>
  
   <h2>Projeto de pagina responsiva e o uso de HTML semântico para melhorar o SEO da pagina!</h2>
